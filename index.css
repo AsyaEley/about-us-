@@ -1,0 +1,13 @@
+.menu {
+  padding:8px;
+  background: #f0f;
+}
+.menu a {
+color: #FFF;
+text-decoration: none; 
+padding: 0 8px;
+}
+.menu a:hover {
+background:#FFF;
+color: #000;
+} 
